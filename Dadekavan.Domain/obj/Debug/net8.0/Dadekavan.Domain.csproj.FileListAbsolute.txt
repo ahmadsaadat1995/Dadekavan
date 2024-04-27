@@ -1,0 +1,12 @@
+C:\Dadekavan\Dadekavan.Domain\bin\Debug\net8.0\Dadekavan.Domain.deps.json
+C:\Dadekavan\Dadekavan.Domain\bin\Debug\net8.0\Dadekavan.Domain.dll
+C:\Dadekavan\Dadekavan.Domain\bin\Debug\net8.0\Dadekavan.Domain.pdb
+C:\Dadekavan\Dadekavan.Domain\obj\Debug\net8.0\Dadekavan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dadekavan\Dadekavan.Domain\obj\Debug\net8.0\Dadekavan.Domain.AssemblyInfoInputs.cache
+C:\Dadekavan\Dadekavan.Domain\obj\Debug\net8.0\Dadekavan.Domain.AssemblyInfo.cs
+C:\Dadekavan\Dadekavan.Domain\obj\Debug\net8.0\Dadekavan.Domain.csproj.CoreCompileInputs.cache
+C:\Dadekavan\Dadekavan.Domain\obj\Debug\net8.0\Dadekavan.Domain.dll
+C:\Dadekavan\Dadekavan.Domain\obj\Debug\net8.0\refint\Dadekavan.Domain.dll
+C:\Dadekavan\Dadekavan.Domain\obj\Debug\net8.0\Dadekavan.Domain.pdb
+C:\Dadekavan\Dadekavan.Domain\obj\Debug\net8.0\ref\Dadekavan.Domain.dll
+C:\Dadekavan\Dadekavan.Domain\obj\Debug\net8.0\Dadekavan.Domain.csproj.AssemblyReference.cache

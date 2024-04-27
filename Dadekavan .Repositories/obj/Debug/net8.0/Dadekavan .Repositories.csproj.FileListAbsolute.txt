@@ -1,0 +1,21 @@
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan .Repositories.deps.json
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan .Repositories.dll
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan .Repositories.pdb
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\Dadekavan .Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\Dadekavan .Repositories.AssemblyInfoInputs.cache
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\Dadekavan .Repositories.AssemblyInfo.cs
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\Dadekavan .Repositories.csproj.CoreCompileInputs.cache
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\Dadekavan .Repositories.dll
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\refint\Dadekavan .Repositories.dll
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\Dadekavan .Repositories.pdb
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\ref\Dadekavan .Repositories.dll
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan.Domain.dll
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan.EntityFrameworkCore.dll
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan.Handler.dll
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan.Queries.dll
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan.Domain.pdb
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan.EntityFrameworkCore.pdb
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan.Handler.pdb
+C:\Dadekavan\Dadekavan .Repositories\bin\Debug\net8.0\Dadekavan.Queries.pdb
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\Dadekavan .Repositories.csproj.AssemblyReference.cache
+C:\Dadekavan\Dadekavan .Repositories\obj\Debug\net8.0\Dadekava.13277BD9.Up2Date

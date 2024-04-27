@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dadekavan\\Dadekavan .Repositories\\Dadekavan .Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Dadekavan\\Dadekavan .Repositories\\Dadekavan .Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dadekavan\\Dadekavan .Repositories\\Dadekavan .Repositories.csproj",
+        "projectName": "Dadekavan .Repositories",
+        "projectPath": "C:\\Dadekavan\\Dadekavan .Repositories\\Dadekavan .Repositories.csproj",
+        "packagesPath": "C:\\Users\\AhmadSaadat\\.nuget\\packages\\",
+        "outputPath": "C:\\Dadekavan\\Dadekavan .Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AhmadSaadat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Dadekavan\\Dadekavan.Domain\\Dadekavan.Domain.csproj": {
+                "projectPath": "C:\\Dadekavan\\Dadekavan.Domain\\Dadekavan.Domain.csproj"
+              },
+              "C:\\Dadekavan\\Dadekavan.EntityFrameworkCore\\Dadekavan.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Dadekavan\\Dadekavan.EntityFrameworkCore\\Dadekavan.EntityFrameworkCore.csproj"
+              },
+              "C:\\Dadekavan\\Dadekavan.Handler\\Dadekavan.Handler.csproj": {
+                "projectPath": "C:\\Dadekavan\\Dadekavan.Handler\\Dadekavan.Handler.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dadekavan\\Dadekavan.Domain\\Dadekavan.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dadekavan\\Dadekavan.Domain\\Dadekavan.Domain.csproj",
+        "projectName": "Dadekavan.Domain",
+        "projectPath": "C:\\Dadekavan\\Dadekavan.Domain\\Dadekavan.Domain.csproj",
+        "packagesPath": "C:\\Users\\AhmadSaadat\\.nuget\\packages\\",
+        "outputPath": "C:\\Dadekavan\\Dadekavan.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AhmadSaadat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dadekavan\\Dadekavan.EntityFrameworkCore\\Dadekavan.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dadekavan\\Dadekavan.EntityFrameworkCore\\Dadekavan.EntityFrameworkCore.csproj",
+        "projectName": "Dadekavan.EntityFrameworkCore",
+        "projectPath": "C:\\Dadekavan\\Dadekavan.EntityFrameworkCore\\Dadekavan.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\AhmadSaadat\\.nuget\\packages\\",
+        "outputPath": "C:\\Dadekavan\\Dadekavan.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AhmadSaadat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Dadekavan\\Dadekavan.Domain\\Dadekavan.Domain.csproj": {
+                "projectPath": "C:\\Dadekavan\\Dadekavan.Domain\\Dadekavan.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dadekavan\\Dadekavan.Handler\\Dadekavan.Handler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dadekavan\\Dadekavan.Handler\\Dadekavan.Handler.csproj",
+        "projectName": "Dadekavan.Handler",
+        "projectPath": "C:\\Dadekavan\\Dadekavan.Handler\\Dadekavan.Handler.csproj",
+        "packagesPath": "C:\\Users\\AhmadSaadat\\.nuget\\packages\\",
+        "outputPath": "C:\\Dadekavan\\Dadekavan.Handler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AhmadSaadat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Dadekavan\\Dadekavan.EntityFrameworkCore\\Dadekavan.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Dadekavan\\Dadekavan.EntityFrameworkCore\\Dadekavan.EntityFrameworkCore.csproj"
+              },
+              "C:\\Dadekavan\\Dadekavan.Queries\\Dadekavan.Queries.csproj": {
+                "projectPath": "C:\\Dadekavan\\Dadekavan.Queries\\Dadekavan.Queries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dadekavan\\Dadekavan.Queries\\Dadekavan.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dadekavan\\Dadekavan.Queries\\Dadekavan.Queries.csproj",
+        "projectName": "Dadekavan.Queries",
+        "projectPath": "C:\\Dadekavan\\Dadekavan.Queries\\Dadekavan.Queries.csproj",
+        "packagesPath": "C:\\Users\\AhmadSaadat\\.nuget\\packages\\",
+        "outputPath": "C:\\Dadekavan\\Dadekavan.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AhmadSaadat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Dadekavan\\Dadekavan.Domain\\Dadekavan.Domain.csproj": {
+                "projectPath": "C:\\Dadekavan\\Dadekavan.Domain\\Dadekavan.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

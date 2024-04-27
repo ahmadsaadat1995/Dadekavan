@@ -1,0 +1,17 @@
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\bin\Debug\net8.0\Dadekavan.EntityFrameworkCore.deps.json
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\bin\Debug\net8.0\Dadekavan.EntityFrameworkCore.dll
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\bin\Debug\net8.0\Dadekavan.EntityFrameworkCore.pdb
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\Dadekavan.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\Dadekavan.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\Dadekavan.EntityFrameworkCore.AssemblyInfo.cs
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\Dadekavan.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\Dadekavan.EntityFrameworkCore.dll
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\refint\Dadekavan.EntityFrameworkCore.dll
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\Dadekavan.EntityFrameworkCore.pdb
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\ref\Dadekavan.EntityFrameworkCore.dll
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\bin\Debug\net8.0\Dadekavan.EntityFrameworkCore.runtimeconfig.json
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\Dadekavan.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\Dadekavan.EntityFrameworkCore.genruntimeconfig.cache
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\bin\Debug\net8.0\Dadekavan.Domain.dll
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\bin\Debug\net8.0\Dadekavan.Domain.pdb
+C:\Dadekavan\Dadekavan.EntityFrameworkCore\obj\Debug\net8.0\Dadekava.9329C6F6.Up2Date

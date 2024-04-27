@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Dadekavan_.Repositories</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dadekavan.Domain\Dadekavan.Domain.csproj" />
+    <ProjectReference Include="..\Dadekavan.EntityFrameworkCore\Dadekavan.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\Dadekavan.Handler\Dadekavan.Handler.csproj" />
+  </ItemGroup>
+
+</Project>

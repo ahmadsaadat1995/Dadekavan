@@ -1,0 +1,15 @@
+C:\Dadekavan\Dadekavan.Queries\bin\Debug\net8.0\Dadekavan.Queries.deps.json
+C:\Dadekavan\Dadekavan.Queries\bin\Debug\net8.0\Dadekavan.Queries.dll
+C:\Dadekavan\Dadekavan.Queries\bin\Debug\net8.0\Dadekavan.Queries.pdb
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\Dadekavan.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\Dadekavan.Queries.AssemblyInfoInputs.cache
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\Dadekavan.Queries.AssemblyInfo.cs
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\Dadekavan.Queries.csproj.CoreCompileInputs.cache
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\Dadekavan.Queries.dll
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\refint\Dadekavan.Queries.dll
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\Dadekavan.Queries.pdb
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\ref\Dadekavan.Queries.dll
+C:\Dadekavan\Dadekavan.Queries\bin\Debug\net8.0\Dadekavan.Domain.dll
+C:\Dadekavan\Dadekavan.Queries\bin\Debug\net8.0\Dadekavan.Domain.pdb
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\Dadekavan.Queries.csproj.AssemblyReference.cache
+C:\Dadekavan\Dadekavan.Queries\obj\Debug\net8.0\Dadekava.4D776BF1.Up2Date
